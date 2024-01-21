@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematic, Middle East Technical University, 2020
+* M.S. in Applied Mathematics, University Lyon 1, 2022
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* April-August 2021: Research Assistant
+  * Lyon 1 University, Institute Camille Jordan 
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* April-September 2022: Research Assistant
+  * ENS de Lyon 
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
@@ -42,18 +42,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+   -->
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
