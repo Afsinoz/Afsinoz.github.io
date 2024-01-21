@@ -20,12 +20,12 @@ Work experience
 * April-August 2021: Research Assistant
   * Lyon 1 University, Institute Camille Jordan 
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Ivan Gentille 
 
 * April-September 2022: Research Assistant
   * ENS de Lyon 
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Nelly Pustelnik, Antoine Venaille 
   
 Skills
 ======
