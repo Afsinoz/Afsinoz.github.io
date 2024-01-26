@@ -19,20 +19,22 @@ Work experience
 ======
 * April-August 2021: Research Assistant
   * Lyon 1 University, Institute Camille Jordan 
-  * Duties included: Tagging issues
+  * Title of the Work: From Brunn-Minkowski to Sobolev
+Type Inequalities via Mass
+Transportation
   * Supervisor: Ivan Gentille 
 
 * April-September 2022: Research Assistant
   * ENS de Lyon 
-  * Duties included: Merging pull requests
+  * Title of the Work: Sea Surface Height reconstructions using physics based variational approaches
   * Supervisor: Nelly Pustelnik, Antoine Venaille 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* Optimization
+* Python
+  * Data Science Tools, Numpy, Pandas, scitlearn...
+  * Deep Learning Tools, 
   * Sub-skill 2.3
 * Skill 3
 
