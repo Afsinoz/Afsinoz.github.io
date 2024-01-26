@@ -78,10 +78,10 @@ We train Deep Neural Networks, Convolutional Neural Networks (CNN), and Recurren
 
 - **Data Source**: [GTZAN Dataset - Music Genre Classification](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
 <!-- - **Limitations**: [Mention any limitations or considerations in the data or methods used]
-- **Contact**: [Your contact information] -->
+- **Contact**: [Your contact information] --> -->
 
 ---
 
-<!-- ## Obtaining GTNAZ data set 
+<!-- <!-- ## Obtaining GTNAZ data set  -->
 You can obtain the dataset from the following Kaggle link:
-[GTZAN Dataset - Music Genre Classification](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) -->
+[GTZAN Dataset - Music Genre Classification](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
