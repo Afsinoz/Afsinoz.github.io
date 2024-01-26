@@ -1,3 +1,8 @@
+---
+title: Music Genre Classification Project
+excerpt: "Music Genre Classification Project what includes an OT approach 1<br/><img src='/images/mfcc.png'>"
+collection: portfolio
+---
 # Music Genre Classification
 
 Team Members: Aziz Burak Gülen, Sacha L’Heveder, Afsin Ozdemir, Ming Zhang
