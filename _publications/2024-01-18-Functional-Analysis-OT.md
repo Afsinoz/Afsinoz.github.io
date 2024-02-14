@@ -3,7 +3,7 @@ title: Functional Inequalites with Optimal Transport
 collection: publications
 permalink: /publication/2024-01-18-Functional-Analysis-OT
 paperurl: http://afsinoz.github.io/files/Internship_Report__Afsin_Ozdemir_.pdf
-excerpt: 'This master....'
+excerpt: 'This master my master report about proving functional inequalities with optimal transport approaches'
 date: 2024-01-18
 ---
 ## Master report 
