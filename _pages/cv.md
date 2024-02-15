@@ -31,12 +31,13 @@ Transportation
   
 Skills
 ======
+* Data Science 
 * Optimization
 * Python
   * Data Science Tools, Numpy, Pandas, scitlearn...
   * Deep Learning Tools, 
   * Sub-skill 2.3
-* Skill 3
+* LateX 
 
 Publications
 ======
