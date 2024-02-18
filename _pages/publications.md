@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Publications and Reports"
+title: "Publications and Master Theses"
 permalink: /publications/
 author_profile: true
----
-## Under Construction 
-Some blog posts are on the way, then we can discuss on wide variety of topics. 
+--- 
 
 
 {% if author.googlescholar %}

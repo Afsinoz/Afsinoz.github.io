@@ -36,10 +36,9 @@ Skills
 * Python
   * Data Science Tools, Numpy, Pandas, scitlearn...
   * Deep Learning Tools, 
-  * Sub-skill 2.3
 * LateX 
 
-Publications
+Publications and Master Theses
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
