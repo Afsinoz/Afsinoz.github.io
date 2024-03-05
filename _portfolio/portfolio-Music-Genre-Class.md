@@ -1,7 +1,6 @@
 ---
 title: Music Genre Classification Project
 excerpt: "Music Genre Classification Project what includes an OT approach 1<br/><img src='/images/mfcc.png'>"
-imageurl: "http://www.afsinoz.github.io/images/mfcc.png"
 collection: portfolio
 ---
 # Music Genre Classification
@@ -34,10 +33,8 @@ We use the k-nn algorithm in order to classify different music genres. To do so,
 
 We compute the distance between MFCCs (Mel-frequency cepstral coefficients) of each audio file. The mel-frequency cepstrum (MFC) is a representation of the short-term power spectrum of a sound. MFCCs are coefficients that collectively make up an MFC.
 
-<img src="http://www.afsinoz.github.io/images/mfcc.png)"
-    alt="MFCC"
-    style="float: left; margin-right: 10px;" />
 
+![MFCC](images/mfcc.png)
 
 When a distance matrix is computed, we then apply k-nn algorithm to predict the genres
 
