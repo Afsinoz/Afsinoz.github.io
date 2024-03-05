@@ -34,7 +34,7 @@ We use the k-nn algorithm in order to classify different music genres. To do so,
 We compute the distance between MFCCs (Mel-frequency cepstral coefficients) of each audio file. The mel-frequency cepstrum (MFC) is a representation of the short-term power spectrum of a sound. MFCCs are coefficients that collectively make up an MFC.
 
 
-![MFCC](images/mfcc.png)
+![MFCC](/images/mfcc.png)
 
 When a distance matrix is computed, we then apply k-nn algorithm to predict the genres
 
