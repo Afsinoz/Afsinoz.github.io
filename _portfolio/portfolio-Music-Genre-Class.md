@@ -1,6 +1,7 @@
 ---
 title: Music Genre Classification Project
 excerpt: "Music Genre Classification Project what includes an OT approach 1<br/><img src='/images/mfcc.png'>"
+imageurl: "http://www.afsinoz.github.io/images/mfcc.png"
 collection: portfolio
 ---
 # Music Genre Classification
