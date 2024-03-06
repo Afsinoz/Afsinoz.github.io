@@ -1,7 +1,7 @@
 ---
 title: Sea Surface Height reconstructions using physics based variational approaches.
 collection: publications
-permalink: /publication/2024-03-05-OceanImage.md
+permalink: /publication/2024-03-05-Ocean-Image.md
 paperurl: http://afsinoz.github.io/files/OceanImage_InternshipReport.pdf
 excerpt: 'Master report on using non-smooth image reconstruction techniques on sea surface height.'
 date: 2023-09-20
