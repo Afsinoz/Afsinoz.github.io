@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications and Master Theses"
 permalink: /publications/
-author_profile: true
+author_profile: false
 --- 
 
 
