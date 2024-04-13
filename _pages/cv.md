@@ -17,25 +17,26 @@ Education
 
 Work experience
 ======
-* April-August 2021: Research Assistant
-  * Lyon 1 University, Institute Camille Jordan 
-  * Title of the Work: From Brunn-Minkowski to Sobolev
-Type Inequalities via Mass
-Transportation
-  * Supervisor: Ivan Gentille 
 
 * April-September 2022: Research Assistant
   * ENS de Lyon 
-  * Title of the Work: Sea Surface Height reconstructions using physics based variational approaches
+  * Title of the Work: Sea Surface Height reconstructions using physics based variational approaches.
   * Supervisor: Nelly Pustelnik, Antoine Venaille 
+
+* April-August 2021: Research Assistant
+  * Lyon 1 University, Institute Camille Jordan 
+  * Title of the Work: From Brunn-Minkowski to Sobolev Type Inequalities via Mass Transportation.
+  * Supervisor: Ivan Gentille 
   
 Skills
 ======
 * Data Science 
 * Optimization
-* Python
+* Python,
   * Data Science Tools, Numpy, Pandas, scitlearn...
-  * Deep Learning Tools, 
+  * Deep Learning Tools,
+
+* C++ (Beginner)
 * LateX 
 
 Publications and Master Theses
